@@ -2,6 +2,10 @@
 <h4>Description:</h4>
 This project involves a comprehensive analysis of hotel booking cancellations for both City Hotel and Resort Hotel. Due to a recent surge in booking cancellations, these hotels have been facing challenges such as reduced revenue and inefficient room occupancy. The objective of this project is to identify factors contributing to these cancellations and to propose strategic solutions to mitigate them.
 
+<h4>Dataset:</h4>
+The dataset used for this analysis is the "Hotel Booking" dataset from Kaggle, provided by user mojtaba. This dataset contains booking information for a city hotel and a resort hotel. It can be found at the following link:</br>
+https://www.kaggle.com/datasets/mojtaba142/hotel-booking
+
 <h4>Objectives:</h4></br>
 1. Identify factors influencing hotel booking cancellations.</br>
 2. Propose strategies to manage and reduce these cancellations.</br>
